@@ -1,5 +1,7 @@
 # Colors
 
+NB! Go with this [color card](https://mightypaint.com/html-color-names-and-hex-codes/) instead to use more descriptive names.
+
 Colors from the color wheel to create `fill` and `stroke` combinations:
 
 ## Primary Colors

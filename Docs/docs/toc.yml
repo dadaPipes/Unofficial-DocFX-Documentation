@@ -2,5 +2,7 @@
 
 - name: Introduction
   href: ../index.md
-- name: Project Overview
-  href: project-overview.md
+- name: Project Dependencies
+  href: project-dependencies.md
+- name: Colors
+  href: colors.md
